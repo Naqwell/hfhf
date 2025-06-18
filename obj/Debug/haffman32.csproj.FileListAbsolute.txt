@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\haffman32\haffman32\bin\Debug\haffman32.exe.config
+C:\Users\User\source\repos\haffman32\haffman32\bin\Debug\haffman32.exe
+C:\Users\User\source\repos\haffman32\haffman32\bin\Debug\haffman32.pdb
+C:\Users\User\source\repos\haffman32\haffman32\obj\Debug\haffman32.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\haffman32\haffman32\obj\Debug\haffman32.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\haffman32\haffman32\obj\Debug\haffman32.exe
+C:\Users\User\source\repos\haffman32\haffman32\obj\Debug\haffman32.pdb
